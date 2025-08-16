@@ -1,0 +1,14 @@
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\bin\Debug\net8.0\algoritmo_Burbuja.exe
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\bin\Debug\net8.0\algoritmo_Burbuja.deps.json
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\bin\Debug\net8.0\algoritmo_Burbuja.runtimeconfig.json
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\bin\Debug\net8.0\algoritmo_Burbuja.dll
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\bin\Debug\net8.0\algoritmo_Burbuja.pdb
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.AssemblyInfoInputs.cache
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.AssemblyInfo.cs
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.dll
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\refint\algoritmo_Burbuja.dll
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.pdb
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\algoritmo_Burbuja.genruntimeconfig.cache
+C:\Users\David Picado\source\repos\BarraOrdenBurbuja\algoritmo_Burbuja\obj\Debug\net8.0\ref\algoritmo_Burbuja.dll

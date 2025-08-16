@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "algoritmo_Burbuja/1.0.0": {
+        "runtime": {
+          "algoritmo_Burbuja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritmo_Burbuja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
